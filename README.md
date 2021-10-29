@@ -4,8 +4,8 @@ Completed projects from my Post Bachelorette Certificate from The University of 
 # [Personal Loan Campaign](https://supremedatakai.github.io/Projects/All_LIfe_Bank.html)
 ## AllLifeBank dataset was used to build a model that will help the marketing department to identify the potential customers who have a higher probability of purchasing the loan.
 ### Skills and Tools
-    - Logistic Regression
-    - Addressed Multicollinearity
-    - Finding optimal threshold using AUC-ROC curve, 
-    - Decison Trees
-    - Pruning
+   - Logistic Regression
+   - Addressed Multicollinearity
+   - Finding optimal threshold using AUC-ROC curve, 
+   - Decison Trees
+   - Pruning
