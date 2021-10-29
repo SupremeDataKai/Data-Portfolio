@@ -14,7 +14,7 @@
 ## [Travel Package Purchase Prediction: Ensemble Techniques](https://supremedatakai.github.io/Projects/Tourism_Final.html)
 ## The "Visit with us" travel company dataset is used to analyze the customers' information and build a model to predict the potential customer who is going to purchase the newly introduced package.
 ### Skills and Tools
-   - EDA
+   - Exploratory Data Analysis
    - Data Preprocessing
    - Customer Profiling
    - Bagging Classifiers
@@ -22,15 +22,15 @@
    - Hyperparameter Tuning
 
 
-## [CreditCard Users Churn Prediction: Model Tuning](https://supremedatakai.github.io/Projects/BankProject.html)
+## [Credit Card Users Churn Prediction: Model Tuning](https://supremedatakai.github.io/Projects/BankProject.html)
 ## A bank sees decline in the number of customers using their credit cards, so it wants to know the reasons behind the decline and predict if a person will attrite or not.
 ### Skills and Tools
-   - Up & Downsampling
-   - Regularzation
+   - Up & Down sampling
+   - Regularization
    - Hyperparameter Tuning
 
 
-## [AllLifeBank Customer Segmentation: Unsupervised Learning](https://supremedatakai.github.io/Projects/CreditPjt_Final.html)
+## [All LifeBank Customer Segmentation: Unsupervised Learning](https://supremedatakai.github.io/Projects/CreditPjt_Final.html)
 ## AllLife Bank wants to expand its credit card customer base by targeting new customers and upselling to existing customers, to do so they want to identify different segments of customers that exist in the dataset.
 ### Skills and Tools
    - Exploratory Data Analysis
