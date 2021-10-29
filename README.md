@@ -1,14 +1,6 @@
-<html prefix="og: https://ogp.me/ns#">
-<head>
-<title>The Rock (1996)</title>
-<meta property="og:title" content="The Rock" />
-<meta property="og:type" content="video.movie" />
-<meta property="og:url" content="https://www.imdb.com/title/tt0117500/" />
-<meta property="og:image" content="https://ia.media-imdb.com/images/rock.jpg" />
-...
-</head>
-...
-</html>
+<head> 
+   <img width="35" src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQE90tXsdr5hEw/articleshare-shrink_480/0/1635541727654?e=1635631200&amp;v=beta&amp;t=wBl8iFtxp6QMLvMVw_234GXdJwUhsBDAhRnoNgJl8bs" loading="lazy" height="19" alt="" id="ember132" class="ivm-view-attr__img--centered pab-featured-item__image lazy-image ember-view">
+   </head> 
 
 
 
