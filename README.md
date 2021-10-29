@@ -7,7 +7,7 @@
    - Logistic Regression
    - Addressed Multicollinearity
    - Finding optimal threshold using AUC-ROC curve, 
-   - Decison Trees
+   - Decision Trees 
    - Pruning
 
 
