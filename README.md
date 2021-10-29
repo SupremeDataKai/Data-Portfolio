@@ -1,6 +1,6 @@
-<head>
-   <meta name="image" property="og:image" content="[https://www.flickr.com/photos/194291835@N04/51638618602/in/dateposted-public/]">
-</head>
+
+   <meta name="image" property="og:image" content="https://www.flickr.com/photos/194291835@N04/51638618602/in/dateposted-public/">
+
 
 
 # Data-Science-Portfolio
