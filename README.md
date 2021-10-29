@@ -1,7 +1,7 @@
 <meta name="description" content="_" />
-<meta name="title" property="og:title" content="_" />
-<meta property="og:type" content="_" />
-<meta name="image" property="og:image" content="_" />
+<meta name="title" property="og:title" content="Portfolio" />
+<meta property="og:type" content="Website" />
+<meta name="image" property="og:image" content="Data" />
 <meta name="description" property="og:description" content="_" /><meta name="author" content="<a data-flickr-embed="true" href="https://www.flickr.com/photos/194291835@N04" title=""><img src="https://live.staticflickr.com/65535/51638618602_c1c3e74d7b_n.jpg" width="640" height="480" alt=""></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>" />
 
 # Data-Science-Portfolio
