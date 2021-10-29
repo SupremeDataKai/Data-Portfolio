@@ -1,3 +1,9 @@
+<meta name="description" content="_" />
+<meta name="title" property="og:title" content="_" />
+<meta property="og:type" content="_" />
+<meta name="image" property="og:image" content="_" />
+<meta name="description" property="og:description" content="_" /><meta name="author" content="https://www.fairobserver.com/wp-content/uploads/2019/10/data.jpg" />
+
 # Data-Science-Portfolio
 # Completed projects from my Post Bachelorette Certificate from The University of Texas at Austin 
 
