@@ -1,8 +1,8 @@
-<meta name="description" content="_" />
-<meta name="title" property="og:title" content="Portfolio" />
+<meta name="description" content="DataScience" />
+<meta name="title" property="og:title" content="<a data-flickr-embed="true" href="https://www.flickr.com/photos/194291835@N04" title=""><img src="https://live.staticflickr.com/65535/51638618602_c1c3e74d7b_n.jpg" width="640" height="480" alt=""></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>" />
 <meta property="og:type" content="Website" />
-<meta name="image" property="og:image" content="Data" />
-<meta name="description" property="og:description" content="_" /><meta name="author" content="<a data-flickr-embed="true" href="https://www.flickr.com/photos/194291835@N04" title=""><img src="https://live.staticflickr.com/65535/51638618602_c1c3e74d7b_n.jpg" width="640" height="480" alt=""></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>" />
+<meta name="image" property="og:image" content="DataScience" />
+<meta name="description" property="og:description" content="Python" /><meta name="author" content="John Doe" />
 
 # Data-Science-Portfolio
 # Completed projects from my Post Bachelorette Certificate from The University of Texas at Austin 
