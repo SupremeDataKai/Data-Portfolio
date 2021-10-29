@@ -28,3 +28,11 @@
    - Up & Downsampling
    - Regularzation
    - Hyperparameter Tuning
+
+
+## [AllLifeBank Customer Segmentation: Unsupervised Learning](https://supremedatakai.github.io/Projects/CreditPjt_Final.html)
+## AllLife Bank wants to expand its credit card customer base by targeting new customers and upselling to existing customers, to do so they want to identify different segments of customers that exist in the dataset.
+### Skills and Tools
+   - Exploratory Data Analysis
+   - K-Means Clustering
+   - Hierarchical Clustering
