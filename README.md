@@ -8,7 +8,7 @@
 # Completed projects from my Post Bachelorette Certificate from The University of Texas at Austin 
 
 ## [Personal Loan Campaign: Supervised Learning Classification](https://supremedatakai.github.io/Projects/All_LIfe_Bank.html)
-## AllLifeBank dataset was used to build a model that will help the marketing department to identify the potential customers who have a higher probability of purchasing the loan.
+## All Life Bank dataset was used to build a model that will help the marketing department to identify the potential customers who have a higher probability of purchasing the loan.
 ### Skills and Tools
    - Logistic Regression
    - Addressed Multicollinearity
@@ -37,7 +37,7 @@
 
 
 ## [All LifeBank Customer Segmentation: Unsupervised Learning](https://supremedatakai.github.io/Projects/CreditPjt_Final.html)
-## AllLife Bank wants to expand its credit card customer base by targeting new customers and upselling to existing customers, to do so they want to identify different segments of customers that exist in the dataset.
+## All Life Bank wants to expand its credit card customer base by targeting new customers and upselling to existing customers, to do so they want to identify different segments of customers that exist in the dataset.
 ### Skills and Tools
    - Exploratory Data Analysis
    - K-Means Clustering
