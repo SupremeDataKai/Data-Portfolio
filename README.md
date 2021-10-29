@@ -2,7 +2,7 @@
  <meta name="description" content="This is a thumbnail for my Data Science Portfolio to increase my chances of getting a job, making a career change" />
  <meta name="title" property="og:title" content="Data Science Portfolio" />
  <meta property="og:type" content="Portfolio of projects" />
- <meta name="image" property="og:image" content="<a data-flickr-embed="true" href="https://www.flickr.com/photos/194291835@N04" title=""><img src="https://live.staticflickr.com/65535/51638618602_c1c3e74d7b_n.jpg" width="640" height="480" alt=""></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>" />
+ <meta name="image" property="og:image" content="<a data-flickr-embed="true" href="https://www.flickr.com/photos/194291835@N04" title=""><img src="https://live.staticflickr.com/65535/51638618602_c1c3e74d7b_n.jpg" width="640" height="480" alt=""></a>
  <meta name="description" property="og:description" content="_" /><meta name="author" content="John Doe" />
 </head>
 
