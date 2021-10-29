@@ -2,7 +2,7 @@
  <meta name="description" content="This is a thumbnail for my Data Science Portfolio to increase my chances of getting a job, making a career change" />
  <meta name="title" property="og:title" content="Data Science Portfolio" />
  <meta property="og:type" content="Portfolio of projects" />
- <meta name="image" property="og:image" content="https://flic.kr/ps/3XFXWj">
+ <meta name="image" property="og:image" content="https://flic.kr/ps/3XFXWj" />
  <meta name="description" property="og:description" content="_" /><meta name="author" content="John Doe" />
 </head>
 
