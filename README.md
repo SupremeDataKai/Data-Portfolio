@@ -11,7 +11,7 @@
    - Pruning
 
 
-## [Travel Package Purchase Prediction: Ensemble Techniques](https://supremedatakai.github.io/Projects/All_LIfe_Bank.html)
+## [Travel Package Purchase Prediction: Ensemble Techniques](https://supremedatakai.github.io/Projects/Tourism_Final.html)
 ## The "Visit with us" travel company dataset is used to analyze the customers' information and build a model to predict the potential customer who is going to purchase the newly introduced package.
 ### Skills and Tools
    - EDA
