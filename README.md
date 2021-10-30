@@ -1,5 +1,8 @@
- <meta property='og:image' content='//https://live.staticflickr.com/65535/51638618602_c1c3e74d7b_t.jpg"/>
- 
+<meta property='og:title' content='Data Science Projects'/>
+<meta property='og:image' content='//https://www.flickr.com/photos/194291835@N04/51638618602/in/dateposted-public/lightbox/" title="Thumb"><img src="https://live.staticflickr.com/65535/51638618602_c1c3e74d7b_t.jpg" width="100" height="60" alt="Thumb"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>'/>
+<meta property='og:description' content='Data Science Projects'/>
+<meta property='og:url' content='//https://supremedatakai.github.io/Data-Science-Portfolio/'/>
+
 # Data-Science-Portfolio
 # Completed projects from my Post Bachelorette Certificate from The University of Texas at Austin 
 
