@@ -1,4 +1,5 @@
- <meta property="og:image" content="Thumb.jpg" />   
+ <meta property='og:image' content='//https://live.staticflickr.com/65535/51638618602_c1c3e74d7b_t.jpg"/>
+ <meta property='og:description' content='Project Page'/>
  
 # Data-Science-Portfolio
 # Completed projects from my Post Bachelorette Certificate from The University of Texas at Austin 
