@@ -1,5 +1,5 @@
 <meta property='og:title' content='Data Science Projects'/>
-<meta name="image" property="og:image" content="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3rWNkfvOFRtWKWol9JURVnZZ-d2V-yFe-A&usqp=CAU]">
+<meta property="og:image" content="<a data-flickr-embed="true" href="https://www.flickr.com/photos/194291835@N04/51638618602/in/dateposted-public/lightbox/"/>
 <meta property='og:description' content='Data Science Projects'/>
 <meta property='og:url' content='//https://supremedatakai.github.io/Data-Science-Portfolio/'/>
 
