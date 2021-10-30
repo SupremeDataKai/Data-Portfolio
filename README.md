@@ -1,5 +1,5 @@
 <meta property='og:title' content='Data Science Projects'/>
-<meta property="og:image" content="preview_image.jpg" />
+<meta name="image" property="og:image" content="[https://flic.kr/p/2mF8qfo/]">
 <meta property='og:description' content='Data Science Projects That were completed during my time at the school you know what I mean Please Please Please Please Work'/>
 <meta property='og:url' content='//https://flic.kr/p/2mF8qfo/'/>
 
