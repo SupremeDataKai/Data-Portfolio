@@ -1,7 +1,8 @@
-<meta property="og:title" content="Data Science Projects"/>
+<head> <meta property="og:title" content="Data Science Projects"/>
 <meta name="Clifton Heggins"content="[Clifton Heggins]">
 <meta property="og:description" content='Data Science Projects That were completed during my time at the school you know what I mean Please Please Please Please Work'/>
 <meta property="og:url" content="//https://flic.kr/p/2mF8qfo/"/>
+</head>
 
 # Data-Science-Portfolio
 # Completed projects from my Post Bachelorette Certificate from The University of Texas at Austin 
