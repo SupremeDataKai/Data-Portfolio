@@ -1,6 +1,6 @@
 <meta property='og:title' content='Data Science Projects'/>
 <meta property="og:image" content="<a data-flickr-embed="true" href="https://www.flickr.com/photos/194291835@N04/51638618602/in/dateposted-public/lightbox/"/>
-<meta property='og:description' content='Data Science Projects'/>
+<meta property='og:description' content='Data Science Projects That were completed during my time at the school you know what I mean Please Please Please Please Work'/>
 <meta property='og:url' content='//https://supremedatakai.github.io/Data-Science-Portfolio/'/>
 
 # Data-Science-Portfolio
