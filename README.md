@@ -1,9 +1,5 @@
-<head> <meta property='og:title' content='Title of the article'/>
-<meta property='og:image' content='//<a data-flickr-embed="true" href="https://github.com/SupremeDataKai/Data-Science-Portfolio/blob/main/Thumb.jpg?raw=true"
-<meta property='og:description' content='Portfolio'/>
-<meta property='og:url' content='//https://supremedatakai.github.io/Data-Science-Portfolio/ of the article'/>
-</head> 
-                                                                                                           
+ <meta property="og:image" content="Thumb.jpg" />   
+ 
 # Data-Science-Portfolio
 # Completed projects from my Post Bachelorette Certificate from The University of Texas at Austin 
 
