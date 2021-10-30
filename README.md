@@ -1,10 +1,9 @@
 <head> <meta property='og:title' content='Title of the article'/>
-
-<meta property='og:image' content='//<a data-flickr-embed="true" href="https://www.flickr.com/photos/194291835@N04/51638618602/in/dateposted-public/" title="Thumb"><img src="https://live.staticflickr.com/65535/51638618602_c1c3e74d7b_t.jpg" width="100" height="60" alt="Thumb"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>'/>
-
-<meta property='og:description' content='Description that will show in the preview'/>
-<meta property='og:url' content='//www.example.com/URL of the article'/>
+<meta property='og:image' content='//<a data-flickr-embed="true" href="https://github.com/SupremeDataKai/Data-Science-Portfolio/blob/main/Thumb.jpg?raw=true"
+<meta property='og:description' content='Portfolio'/>
+<meta property='og:url' content='//https://supremedatakai.github.io/Data-Science-Portfolio/ of the article'/>
 </head> 
+                                                                                                           
 # Data-Science-Portfolio
 # Completed projects from my Post Bachelorette Certificate from The University of Texas at Austin 
 
