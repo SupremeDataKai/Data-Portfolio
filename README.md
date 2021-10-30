@@ -1,5 +1,3 @@
-<head><a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/194291835@N04/51638618602/in/dateposted-public/" title="Thumb"><img src="https://live.staticflickr.com/65535/51638618602_2f4977e1cc_o.jpg" width="300" height="180" alt="Thumb"></a>
-</head>
 # Completed projects from my Post Bachelorette Certificate from The University of Texas at Austin 
 
 ## [Personal Loan Campaign: Supervised Learning Classification](https://supremedatakai.github.io/Projects/All_LIfe_Bank.html)
