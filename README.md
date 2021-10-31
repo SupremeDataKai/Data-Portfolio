@@ -1,4 +1,3 @@
-## Completed projects from my Post Bachelorette Certificate from The University of Texas at Austin 
 
 # [Personal Loan Campaign: Supervised Learning Classification](https://supremedatakai.github.io/Projects/All_LIfe_Bank.html)
 ## All Life Bank dataset was used to build a model that will help the marketing department to identify the potential customers who have a higher probability of purchasing the loan.
