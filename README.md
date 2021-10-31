@@ -19,7 +19,7 @@
   - **Bagging Classifiers**
   - **Boosting**
   - **Hyperparameter Tuning**
-
+![](/images/features.png)
 
 # [Credit Card Users Churn Prediction: Model Tuning](https://supremedatakai.github.io/Projects/BankProject.html)
 ## A bank sees decline in the number of customers using their credit cards, so it wants to know the reasons behind the decline and predict if a person will attrite or not.
