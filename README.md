@@ -7,6 +7,7 @@
   - **Finding optimal threshold using AUC-ROC curve** 
   - **Decision Trees** 
   - **Pruning**
+ 
  ![](/images/alllifebank.png)
 
 # [Travel Package Purchase Prediction: Ensemble Techniques](https://supremedatakai.github.io/Projects/Tourism_Final.html)
