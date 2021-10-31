@@ -26,6 +26,7 @@
   - **Up & Down sampling**
   - **Regularization**
   - **Hyperparameter Tuning**
+
 ![](/images/gradient.png)
 
 
