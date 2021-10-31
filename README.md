@@ -26,6 +26,7 @@
   - **Up & Down sampling**
   - **Regularization**
   - **Hyperparameter Tuning**
+![](/images/gradient.png)
 
 
 # [All LifeBank Customer Segmentation: Unsupervised Learning](https://supremedatakai.github.io/Projects/CreditPjt_Final.html)
