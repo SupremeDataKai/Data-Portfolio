@@ -36,3 +36,7 @@
   - **Exploratory Data Analysis**
   - **K-Means Clustering**
   - **Hierarchical Clustering**
+
+![](/images/clusterk.png)
+![](/images/dendro.png)
+![](/images/clusterh.png)
